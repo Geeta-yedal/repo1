@@ -3,15 +3,14 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.walmart.qa.test.SearchPageTest">
+      <class name="com.walmart.qa.test.ProductListTest">
         <methods>
-          <include name="searchfieldTest"/>
+          <include name="productTest"/>
+          <include name="shopnowLinkTest"/>
           <include name="setUp"/>
-          <include name="logoTest"/>
-          <include name="imageTest"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- com.walmart.qa.test.SearchPageTest -->
+      </class> <!-- com.walmart.qa.test.ProductListTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
