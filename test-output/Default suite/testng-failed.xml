@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.walmart.qa.test.SearchPageTest">
+        <methods>
+          <include name="searchfieldTest"/>
+          <include name="setUp"/>
+          <include name="logoTest"/>
+          <include name="imageTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.walmart.qa.test.SearchPageTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

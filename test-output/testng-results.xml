@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32197" started-at="2018-12-11T21:27:27Z" finished-at="2018-12-11T21:27:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32197" started-at="2018-12-11T21:27:27Z" finished-at="2018-12-11T21:27:59Z">
+      <class name="com.walmart.qa.test.SearchPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.walmart.qa.test.SearchPageTest@2b98378d]" name="setUp" is-config="true" duration-ms="8330" started-at="2018-12-11T13:27:27Z" finished-at="2018-12-11T13:27:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="imageTest()[pri:1, instance:com.walmart.qa.test.SearchPageTest@2b98378d]" name="imageTest" duration-ms="58" started-at="2018-12-11T13:27:35Z" finished-at="2018-12-11T13:27:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- imageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.walmart.qa.test.SearchPageTest@2b98378d]" name="tearDown" is-config="true" duration-ms="801" started-at="2018-12-11T13:27:35Z" finished-at="2018-12-11T13:27:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.walmart.qa.test.SearchPageTest@2b98378d]" name="setUp" is-config="true" duration-ms="7846" started-at="2018-12-11T13:27:36Z" finished-at="2018-12-11T13:27:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logoTest()[pri:2, instance:com.walmart.qa.test.SearchPageTest@2b98378d]" name="logoTest" duration-ms="45" started-at="2018-12-11T13:27:44Z" finished-at="2018-12-11T13:27:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.walmart.qa.test.SearchPageTest@2b98378d]" name="tearDown" is-config="true" duration-ms="1101" started-at="2018-12-11T13:27:44Z" finished-at="2018-12-11T13:27:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.walmart.qa.test.SearchPageTest@2b98378d]" name="setUp" is-config="true" duration-ms="8274" started-at="2018-12-11T13:27:45Z" finished-at="2018-12-11T13:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchfieldTest()[pri:3, instance:com.walmart.qa.test.SearchPageTest@2b98378d]" name="searchfieldTest" duration-ms="4883" started-at="2018-12-11T13:27:53Z" finished-at="2018-12-11T13:27:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchfieldTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.walmart.qa.test.SearchPageTest@2b98378d]" name="tearDown" is-config="true" duration-ms="826" started-at="2018-12-11T13:27:58Z" finished-at="2018-12-11T13:27:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.walmart.qa.test.SearchPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

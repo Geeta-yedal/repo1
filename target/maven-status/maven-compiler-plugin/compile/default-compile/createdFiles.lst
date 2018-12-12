@@ -1,0 +1,6 @@
+com\walmart\qa\pages\ProductDetail.class
+com\walmart\qa\pages\ProductListPage.class
+com\walmart\qa\pages\BillingPage.class
+com\walmart\qa\base\Base.class
+com\walmart\qa\pages\SerachPage.class
+com\walmart\qa\pages\CartPage.class
